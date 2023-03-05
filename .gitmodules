@@ -1,0 +1,12 @@
+[submodule "data-buyer-fe"]
+	path = data-buyer-fe
+	url = https://github.com/mercury-protocol/data-buyer-fe.git
+[submodule "DataDAO"]
+	path = DataDAO
+	url = https://github.com/mercury-protocol/DataDAO.git
+[submodule "data-dao-helper"]
+	path = data-dao-helper
+	url = https://github.com/mercury-protocol/data-dao-helper.git
+[submodule "attestation-verifier"]
+	path = attestation-verifier
+	url = https://github.com/mercury-protocol/attestation-verifier.git
